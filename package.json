@@ -1,0 +1,17 @@
+{
+  "name": "zavrsni_rad",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "jade": "*",
+    "less-middleware":"*",
+    "mongoose":"3.8.7"
+  },
+  "devDependencies":{
+    "nodemon":"*"
+  }
+}
