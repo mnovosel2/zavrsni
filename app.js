@@ -1,6 +1,7 @@
 
 var express = require('express'),
  	routes = require('./routes'),
+ 	docs=require('./routes/docs'),
  	http = require('http'),
  	path = require('path'),
  	mongoose=require('mongoose'),
@@ -15,6 +16,11 @@ var documentSchema=new mongoose.Schema({
 		dateCreated:{
 				type: Date,
 				default: Date.now
+		},
+		type:String,
+		location:{
+			type:String,
+			default:"/"
 		}
 });
 var documents=mongoose.model('documents',documentSchema);
@@ -37,7 +43,8 @@ app.use(require('less-middleware')(path.join(__dirname, '/public'),{compress:tru
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', routes.index);
-
+app.get('/documents',docs.listAllDocuments);
+app.post('/documents',docs.createDocument);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
