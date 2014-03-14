@@ -33,3 +33,8 @@ exports.createDocument=function(req,res,next){
 			}
 		});
 }
+exports.editForm=function(req,res){
+	res.render('editForm',{
+		doc:req.doc || []
+	});
+}

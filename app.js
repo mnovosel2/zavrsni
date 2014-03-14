@@ -42,10 +42,22 @@ app.use(app.router);
 app.use(require('less-middleware')(path.join(__dirname, '/public'),{compress:true}));
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.param('document_id',function(req,res,next,document_id){
+		req.documents.findById(document_id,function(err,docs){
+				if(err)
+					return next(new Error('Dokument nije pronaden'));
+				req.doc=docs;
+				return next();
+		});
+});
+
+
 app.get('/', routes.index);
 app.get('/documents',docs.listAllDocuments);
 app.post('/documents',docs.createDocument);
+app.get('/documents/:document_id/edit',docs.editForm);
 
+ 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
 });

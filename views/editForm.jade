@@ -1,0 +1,10 @@
+extends layout
+block content
+	form(method="post",action="/")
+		input(type="text",value="#{doc.title}", name="title")
+		textarea(name="content")= doc.content
+		input(type="text", value="#{doc.tags}",name="tags")
+		input(type="submit",value="Ažuriraj")
+		input(type="hidden" value="#{doc._id}",name="document_id")
+		
+		
