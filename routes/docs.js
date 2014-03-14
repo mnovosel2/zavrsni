@@ -14,7 +14,6 @@ exports.createDocument=function(req,res,next){
 			tags=req.body.tags,
 			type=req.body.type,
 			content=req.body.content,
-			dateCreated=req.body.dateCreated,
 			location=req.body.location;
 		if(!title || !tags || !type)
 			return next(new Error("Unos nije validan zbog nedovoljno podataka"));
@@ -23,8 +22,7 @@ exports.createDocument=function(req,res,next){
 			tags:tags,
 			type:type,
 			content:content,
-			dateCreated:dateCreated,
-			location:location
+			dateCreated:Date.now()
 		}).save(function(err,docs){
 			if(err){
 				console.log('Spremanje nije uspjelo');
@@ -36,5 +34,19 @@ exports.createDocument=function(req,res,next){
 exports.editForm=function(req,res){
 	res.render('editForm',{
 		doc:req.doc || []
+	});
+}
+exports.updateDocument=function(req,res){
+
+	req.documents.findByIdAndUpdate(req.body.document_id,{
+		$set:{
+			title:req.body.title,
+			content:req.body.content,
+			tags:req.body.tags
+		}
+	},{new:true},function(err,docs,next){
+		if(err)
+			return next(new Error("Azuriranje nije uspjesno"));
+		res.redirect('/documents');
 	});
 }

@@ -17,11 +17,7 @@ var documentSchema=new mongoose.Schema({
 				type: Date,
 				default: Date.now
 		},
-		type:String,
-		location:{
-			type:String,
-			default:"/"
-		}
+		type:String
 });
 var documents=mongoose.model('documents',documentSchema);
 app.use(function(req,res,next){
@@ -56,7 +52,7 @@ app.get('/', routes.index);
 app.get('/documents',docs.listAllDocuments);
 app.post('/documents',docs.createDocument);
 app.get('/documents/:document_id/edit',docs.editForm);
-
+app.put('/documents/:document_id/edit',docs.updateDocument);
  
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
