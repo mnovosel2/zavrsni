@@ -1,0 +1,7 @@
+extends layout
+block content
+	form(method="post",action="/documents/"+"#{doc._id}"+"/new")
+		input(type="text", name="title")
+		textarea(name="content")
+		input(type="text",name="tags")
+		input(type="submit",name="submit")

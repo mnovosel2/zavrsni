@@ -1,0 +1,1136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mode",
+				"Model"
+			],
+			[
+				"Da",
+				"Date(full)"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ob_e",
+				"ob_end_flush  (function)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"msg",
+				"msg_functions  (variable)"
+			],
+			[
+				"onresi",
+				"onresize          Window"
+			],
+			[
+				"out",
+				"outerWidth  (variable)"
+			],
+			[
+				"x",
+				"screenX  (variable)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index:   (property)"
+			],
+			[
+				"pus",
+				"push_to  (variable)"
+			],
+			[
+				"res",
+				"result  (variable)"
+			],
+			[
+				"regi",
+				"registration_ids  (variable)"
+			],
+			[
+				"re",
+				"registered"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"sent_",
+				"sent_json  (variable)"
+			],
+			[
+				"sent",
+				"sent_json  (variable)"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"mysqli_er",
+				"mysqli_error()"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"kori",
+				"korisnici"
+			],
+			[
+				"to",
+				"toString  (function)"
+			],
+			[
+				"parse",
+				"parseInt()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"r",
+				" red(@color)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sty",
+				"stylesheets"
+			],
+			[
+				"active",
+				"active_tasks"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"includ",
+				"include_once"
+			],
+			[
+				"mysqli_fetch_",
+				"mysqli_fetch_assoc()"
+			],
+			[
+				"h",
+				"hyphenate-lines:   (property)"
+			],
+			[
+				"db",
+				"db"
+			],
+			[
+				"Db",
+				"DB_Functions  (class)"
+			],
+			[
+				"docu",
+				"document          Window"
+			],
+			[
+				"DB_",
+				"DB_Functions  (class)"
+			],
+			[
+				"__",
+				"__construct()"
+			],
+			[
+				"inc",
+				"include  (function)"
+			],
+			[
+				"s",
+				"stylesheets"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"acti",
+				"activeTask"
+			],
+			[
+				"task",
+				"taskRoute"
+			],
+			[
+				"ac",
+				"activeTask"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch"
+			],
+			[
+				"gcm",
+				"gcm_regid  (variable)"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"cont",
+				"contacts_js"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"mysqli_conn",
+				"mysqli_connect_errno"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"emal",
+				"email_adresa"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"mongo",
+				"mongoose"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ob_end_",
+				"ob_end_flush"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ispis",
+				"ispisNaslova"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"erro",
+				"errorThrown"
+			],
+			[
+				"print",
+				"print_this"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"category",
+				"category_model"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"train",
+				"training_structure"
+			],
+			[
+				"test",
+				"testing_structure"
+			],
+			[
+				"prefs",
+				"prefs_count"
+			],
+			[
+				"array",
+				"array_prefs"
+			],
+			[
+				"row",
+				"row_number"
+			],
+			[
+				"array_s",
+				"array_sort"
+			],
+			[
+				"arr",
+				"array_prefs"
+			],
+			[
+				"aa",
+				"array_movies"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"user",
+				"user_index"
+			],
+			[
+				"line",
+				"lines_in_movies"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"string",
+				"string_encoded"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"cart",
+				"cart_items"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"project ",
+				"Project: Close"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 546.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/index.html",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Racunalo/Desktop/index",
+		"/D/xampp/htdocs/projects/node/inf_test_app/public/stylesheets/style.css",
+		"/D/xampp/htdocs/projects/node/inf_test_app/public/stylesheets/custom.css",
+		"/D/xampp/htdocs/projects/node/inf_test_app/views/tasks.jade",
+		"/D/xampp/htdocs/projects/node/inf_test_app/app.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/views/editForm.jade",
+		"/D/xampp/htdocs/projects/node/inf_test_app/routes/tasks.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/routes/docs.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/views/documents.jade",
+		"/D/xampp/htdocs/projects/backbone/main.js",
+		"/D/xampp/htdocs/projects/backbone/index.html",
+		"/D/xampp/htdocs/projects/zoran/sitemap.xml",
+		"/D/xampp/htdocs/projects/node/inf_test_app/node_modules/jade/node_modules/monocle/node_modules/readdirp/stream-api.js",
+		"/D/xampp/htdocs/projects/zoran/application/views/articles/croatian/savjeti/sigurnosni_savjeti.php",
+		"/D/xampp/htdocs/projects/cms/public/bootstrap/assets/js/filesaver.js",
+		"/D/xampp/htdocs/projects/baranjski_vrtovi/system/database/DB_active_rec.php",
+		"/D/xampp/htdocs/projects/baranjski_vrtovi/application/views/proizvod.php",
+		"/D/xampp/htdocs/projects/backbone/backbone.js",
+		"/D/xampp/htdocs/projects/sms_service/send_message.php",
+		"/D/xampp/htdocs/projects/sms_service/index.php",
+		"/D/xampp/htdocs/projects/send_message.php",
+		"/D/xampp/htdocs/projects/sms_service/login.php",
+		"/D/xampp/htdocs/projects/sms_service/logout.php",
+		"/D/xampp/htdocs/projects/sms_service/login_process.php",
+		"/D/xampp/htdocs/projects/sms_service/msg_functions.php",
+		"/D/xampp/htdocs/projects/sms_service/check_user.php",
+		"/D/xampp/htdocs/projects/sms_service/register.php",
+		"/D/xampp/htdocs/projects/sms_service/css/style.css",
+		"/D/xampp/htdocs/projects/sms_service/css/main.css",
+		"/D/xampp/htdocs/projects/sms_service/db_functions.php",
+		"/D/xampp/htdocs/projects/joomla/configuration.php",
+		"/C/Users/Racunalo/Desktop/my.cnf",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/app.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/views/layout.jade",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/views/layout.jade",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/app.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/routes/documents.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/nodepad-master/app.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/package.json",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/routes/user.js",
+		"/D/xampp/htdocs/projects/node/zavrsni/app_zavrsni/.gitignore",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/package.json",
+		"/D/xampp/htdocs/projects/node/zavrsni/aplikacija/app.js",
+		"/D/xampp/htdocs/projects/.gitignore",
+		"/D/xampp/htdocs/projects/sms_service/ .gitignore",
+		"/D/xampp/htdocs/projects/sms_service/.gitignore",
+		"/D/xampp/htdocs/projects/mapel/about.php",
+		"/D/xampp/htdocs/projects/mapel/css/style.css",
+		"/D/xampp/htdocs/projects/mapel/index.php",
+		"/D/xampp/htdocs/projects/sms_service/info.php",
+		"/C/Users/Racunalo/AppData/Local/Temp/fz3temp-1/config 2.php",
+		"/D/xampp/htdocs/projects/sms_service/db_connect.php",
+		"/D/xampp/htdocs/projects/sms_service/style.css",
+		"/D/xampp/htdocs/projects/sms_service - Copy/config.php",
+		"/D/xampp/htdocs/projects/sms_service/main.css",
+		"/C/Users/Racunalo/AppData/Local/Temp/fz3temp-1/config.php",
+		"/D/xampp/htdocs/projects/sms_service/index2.php",
+		"/D/Download/8-login-form/8-login-form/index.html",
+		"/D/Download/8-login-form/8-login-form/css/style.css",
+		"/D/xampp/htdocs/projects/sms_service/GCM.php",
+		"/C/Users/Racunalo/AppData/Local/Temp/fz3temp-1/index.php",
+		"/D/xampp/htdocs/projects/sms_service/sftp-config.json",
+		"/C/Users/Racunalo/Desktop/Futura-Medium/styles.css",
+		"/D/xampp/htdocs/projects/GP_Portfolio/index.html",
+		"/D/xampp/htdocs/projects/android_php_json/index.php",
+		"/D/xampp/htdocs/projects/android_php_json/config.php",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/public/file.txt",
+		"/D/xampp/htdocs/projects/node/inf_test_app/views/completed_tasks.jade",
+		"/D/xampp/htdocs/projects/node/inf_test_app/views/layout.jade",
+		"/D/xampp/htdocs/projects/node/inf_test_app/public/stylesheets/custom.less",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/views/tasks_completed.jade",
+		"/D/xampp/htdocs/projects/node/inf_test_app/views/index.jade",
+		"/D/xampp/htdocs/projects/node/taskless/package.json",
+		"/D/xampp/htdocs/projects/node/taskless/app.js",
+		"/D/Download/gk_meet/gk_meet_gavern_quickstart_J30/htaccess.txt",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/public/javascripts/main.js",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/views/tasks.jade",
+		"/D/xampp/htdocs/projects/baranjski_vrtovi/assets/css/style.css",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/app.js",
+		"/D/xampp/htdocs/projects/backup_sms/config.php",
+		"/D/xampp/htdocs/projects/node/inf_test_app/routes/index.js",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/views/layout.jade",
+		"/D/xampp/htdocs/projects/node/inf_test_app/public/javascripts/script.js",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/views/index.jade",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/routes/tasks.js",
+		"/C/Users/Racunalo/AppData/Local/Temp/fz3temp-2/register.php",
+		"/D/xampp/htdocs/projects/sms_service - Copy/db_functions.php",
+		"/D/xampp/htdocs/projects/again_sms_service/GCM.php",
+		"/D/xampp/htdocs/projects/sms_service - Copy/GCM.php",
+		"/D/xampp/htdocs/projects/again_sms_service/db_functions.php",
+		"/D/xampp/htdocs/projects/sms_service - Copy/db_connect.php",
+		"/D/xampp/htdocs/projects/again_sms_service/db_connect.php",
+		"/D/xampp/htdocs/projects/again_sms_service/config.php",
+		"/D/xampp/htdocs/projects/sms_service/config.php",
+		"/D/xampp/htdocs/projects/sms_service - Copy/index.php",
+		"/D/xampp/htdocs/projects/node/inf_test_app/package.json",
+		"/C/.gitignore.txt",
+		"/C/Users/Racunalo/Desktop/.gitignore",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/views/users/index.jade",
+		"/D/xampp/htdocs/projects/sms_service/test.php",
+		"/D/xampp/htdocs/projects/sms_service - Copy/send_message.php",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/views/users/new.jade",
+		"/C/Users/Racunalo/AppData/Local/Temp/fz3temp-3/register.php",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/xampp/htdocs/projects/node/zavrsni/testApp/views/home.jade",
+		"/D/xampp/htdocs/projects/todo-express-master/todo-express-master/package.json",
+		"/C/heroku/database.php",
+		"/D/Download/Sources/Sources/Server/index.html",
+		"/D/Download/Sources/Sources/Server/credentials.php",
+		"/D/Download/Sources/Sources/Server/process.php",
+		"/D/Download/Sources/Sources/Server/register.php",
+		"/C/Users/Racunalo/Desktop/AndroidGoogleColudMessaging/AndroidGoogleColudMessaging/gcm_server_php/register.php",
+		"/C/Users/Racunalo/Desktop/AndroidGoogleColudMessaging/AndroidGoogleColudMessaging/gcm_server_php/test.php",
+		"/D/xampp/htdocs/projects/cms/includes/functions.php",
+		"/C/Users/Racunalo/Desktop/AndroidGoogleColudMessaging/AndroidGoogleColudMessaging/gcm_server_php/send_message.php",
+		"/C/Users/Racunalo/Desktop/AndroidGoogleColudMessaging/AndroidGoogleColudMessaging/gcm_server_php/db_functions.php",
+		"/C/Users/Racunalo/Desktop/AndroidGoogleColudMessaging/AndroidGoogleColudMessaging/gcm_server_php/db_connect.php",
+		"/C/Users/Racunalo/Desktop/AndroidGoogleColudMessaging/AndroidGoogleColudMessaging/gcm_server_php/config.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"*.php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"free_sms\"",
+			"port",
+			"val",
+			"row",
+			"+",
+			"var",
+			"name",
+			"</tr>",
+			"<tr>",
+			"gcm",
+			"msg_f",
+			"msg_functions",
+			"if",
+			"content",
+			"xs",
+			"5vmin",
+			"vmax",
+			"star-",
+			"div",
+			"container",
+			"col-xs-6",
+			"require",
+			"include_once",
+			">\n",
+			"send",
+			"username",
+			"html",
+			"span",
+			"md",
+			"<h3>",
+			"span",
+			"div",
+			"h1",
+			"max-",
+			"0.2",
+			"0.5",
+			"0.75",
+			"3px",
+			"inset",
+			"home/",
+			"data",
+			"users",
+			"user",
+			"290px",
+			"return",
+			"echo",
+			"return",
+			"tasks",
+			"href",
+			"phone",
+			"email",
+			"phone",
+			"email",
+			"phone",
+			"email",
+			"phone",
+			"email",
+			"phone",
+			"email",
+			"incomplete",
+			"		\n",
+			"phone",
+			"email",
+			"phone",
+			"email",
+			";",
+			"var",
+			"naziv",
+			"test",
+			"contacts",
+			"highlight_line",
+			"caret",
+			",\n",
+			"caret",
+			"res",
+			"req",
+			"kategorija",
+			"prefs_count",
+			"key",
+			"girl",
+			"$user[0]",
+			"value",
+			"lines_in_file",
+			"array",
+			"lines",
+			"csvData",
+			"3",
+			"34495e",
+			"width",
+			"form-group",
+			"full_cart_view",
+			"button",
+			"list_products"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"phone",
+			"email"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 59.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Racunalo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "zavrsni.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

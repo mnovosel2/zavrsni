@@ -1,0 +1,5 @@
+{
+	"db":"zavrsniDB",
+	"url":"mongodb://localhost/zavrsniDB",
+	"secret":"zavrsni_rad"
+}
